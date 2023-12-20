@@ -114,7 +114,6 @@ $(function () {
   });
 
   /* Start bootstrap Scrollspy Options  */
-  //on one page demos only
   if (navMain) {
     $(bdyOnePage).scrollspy({
       target: navMain,
